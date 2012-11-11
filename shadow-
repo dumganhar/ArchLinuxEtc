@@ -1,0 +1,13 @@
+root:$6$Wt.o2k4s$7kE1zaalFgJQERlVm1VH8DGvABPNZG.c7APjmUG1StL8tz1/GWzLD7bGBTT1VkCge/YNs9MFCPjN6dieZt6yZ1:15654::::::
+bin:x:14871::::::
+daemon:x:14871::::::
+mail:x:14871::::::
+ftp:x:14871::::::
+http:x:14871::::::
+uuidd:x:14871::::::
+nobody:x:14871::::::
+dbus:!:15654:0:99999:7:::
+james:$6$yXaium.e$ceevoQwm8nlCOmidaowsJpZQkbedLS0XhPq3La2QhqLZB3cbndWFITP5UO6b3BflSMIkdRgi//n7RiWgY7o8M/:15654:0:99999:7:::
+avahi:!:15655::::::
+polkitd:!:15655:0:99999:7:::
+usbmux:!:15655:0:99999:7:::
