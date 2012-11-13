@@ -35,3 +35,4 @@ dbus:!::
 avahi:!::
 polkitd:!::
 usbmux:!::
+git:!::
