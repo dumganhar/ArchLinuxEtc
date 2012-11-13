@@ -11,3 +11,4 @@ james:x:1000:100::/home/james:/bin/bash
 avahi:x:84:84:avahi:/:/bin/false
 polkitd:x:102:102:Policy Kit Daemon:/:/bin/false
 usbmux:x:140:140:usbmux user:/:/sbin/nologin
+git:x:999:999:git daemon user:/:/bin/bash

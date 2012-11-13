@@ -11,3 +11,4 @@ james:$6$yXaium.e$ceevoQwm8nlCOmidaowsJpZQkbedLS0XhPq3La2QhqLZB3cbndWFITP5UO6b3B
 avahi:!:15655::::::
 polkitd:!:15655:0:99999:7:::
 usbmux:!:15655:0:99999:7:::
+git:!:15655::::::

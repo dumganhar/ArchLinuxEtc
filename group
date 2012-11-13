@@ -36,3 +36,4 @@ avahi:x:84:
 polkitd:x:102:
 usbmux:x:140:
 git:x:999:
+privoxy:x:42:
