@@ -36,3 +36,5 @@ avahi:!::
 polkitd:!::
 usbmux:!::
 git:!::
+privoxy:!::
+vboxusers:!::
