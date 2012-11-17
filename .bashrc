@@ -7,3 +7,6 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
+
+export NDK_ROOT=/opt/android-ndk
+export CLANG_ROOT=/usr/lib/llvm
