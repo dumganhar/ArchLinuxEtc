@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCState>
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPosStr Value="0;31;1280;1002"/>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="15075"/>
+		<LastChecked Value="2012-11-11 21:49:21"/>
+	</TCheckForUpdatesState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/android"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/blackberry"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THomeState>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TSessionSaveAsState>
+		<FormPosStr Value="458;412;822;644"/>
+	</TSessionSaveAsState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/android/CCImage.cpp"/>
+			<_1 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/android/CCGL.h"/>
+			<_2 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/android/CCAccelerometer.h"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Monospace;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/blackberry/CCImage.cpp"/>
+			<_1 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/blackberry/CCGL.h"/>
+			<_2 Value="/home/james/Project/cocos2d-x/cocos2dx/platform/blackberry/CCAccelerometer.h"/>
+		</RightMRUSpecs>
+		<SessionFormPosStr Value="295;224;816;695"/>
+	</TTextCompareState>
+</BCState>

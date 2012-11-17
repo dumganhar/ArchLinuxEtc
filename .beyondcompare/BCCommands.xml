@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCCommands>
+	<TDirCompareCommands>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;136"/>
+			<ActionsBar Value="TopDock;;;339"/>
+			<EditBar Value="TopDock;;;498"/>
+			<FileFiltersBar Value="TopDock;;;672"/>
+		</Toolbars>
+	</TDirCompareCommands>
+	<TTextCompareCommands>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;136"/>
+			<EditBar Value="TopDock;;;558"/>
+			<SearchBar Value="TopDock;;;340"/>
+			<ViewBar Value="TopDock;;;422"/>
+		</Toolbars>
+	</TTextCompareCommands>
+</BCCommands>

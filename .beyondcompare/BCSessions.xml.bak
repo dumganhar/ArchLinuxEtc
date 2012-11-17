@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCSessions>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="android %3C--%3E blackberry">
+						<LastModified Value="2012-11-15 21:36:20"/>
+						<Specs>
+							<Left Value="/home/james/Project/cocos2d-x/cocos2dx/platform/android"/>
+							<Right Value="/home/james/Project/cocos2d-x/cocos2dx/platform/blackberry"/>
+						</Specs>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
