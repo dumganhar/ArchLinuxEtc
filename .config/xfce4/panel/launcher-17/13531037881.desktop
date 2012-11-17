@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SublimeText
+Comment=
+Exec=/home/james/Software/SublimeText2/sublime_text
+Icon=/home/james/Software/SublimeText2/Icon/256x256/sublime_text.png
+Path=
+Terminal=false
+StartupNotify=false
+X-XFCE-Source=file:///home/james/Desktop/SublimeText.desktop
